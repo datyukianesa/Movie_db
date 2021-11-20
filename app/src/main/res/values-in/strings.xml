@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+    <string name="description">Deskripsi</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Skor Rating</string>
+    <string name="language">Bahasa</string>
+    <string name="votes">Total Vote</string>
+    <string name="popularity">Popularitas</string>
+    <string name="made_by">Dibuat Oleh</string>
+    <string name="name">Nama</string>
+    <string name="student_id">NIM</string>
+    <string name="kelas">Kelas</string>
+</resources>
